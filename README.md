@@ -23,10 +23,10 @@ Here are some screenshots of Grok's interpretation of the article before I move 
 -----------------------------------------------------------------------------------
 
 So here's the deal, from my analysis. LLM technologies have been programmed to be very literal in understanding, still. I think, 
-on average, that makes the conversational technology more accurate: it does not second-guess what you put into the prompt and 
-does not take your input as a joke. On the other hand, the deep psychological data that the industry has put into this technology 
-inevitably makes it deceptive, to certain degrees. The thing is, the world as an American has shrunk considerably for many 
-people. Overcompetitive behaviors, especially, are not to be taken lightly. I might not have meant everything I wrote in the 
+on average, that makes the conversational technology more conventionally high-performing: it does not second-guess what you put into 
+the prompt and does not take your input as a joke. On the other hand, the deep psychological data that the industry has put into 
+this technology inevitably makes it deceptive, to certain degrees. The thing is, the world as an American has shrunk considerably 
+for many people. Overcompetitive behaviors, especially, are not to be taken lightly. I might not have meant everything I wrote in the 
 article. And that is the problem with language-based technologies. It's like going back to school, and the teacher is forcing 
 everyone to speak politely and such. The age that I am at now, I've come to grow very wary of polite-speak, especially with the 
 emerging socio-economic problems I've come to experience. The "disenfranchised Jew" sentence, for example...that was a real thing 
