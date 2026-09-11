@@ -68,7 +68,7 @@ Social relations get very hard to maintain when there is no good capital or caus
 sometimes the people closest to you that prove to be your worst enemies. It doesn't have to be some big and menacing black man or some sinister 
 conniving Chinese guy. Quite truly... but still. The practice of restraining speech is most likely as effective as how much deadly force can 
 come into play; this might be wrong but the model of militarism and supremacy that is a crucial part of nation-state building is actually being 
-seen in today's age at a phenomenal rate. It's no longer Japan and Germany that are brandishing flame. 
+seen in today's age at a phenomenal rate. It's no longer Japan and Germany that are brandishing flame, by the way. 
 
 **Ethnicity does not matter from the beginning.** Some people make it matter. Cultural preservation. The divide. The league. The sports and the 
 audience. The stars and the fans. Out of all the hypocrisies in the world, I'd say progressivism does not work unless there are healthy reminders 
