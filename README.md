@@ -98,8 +98,8 @@ Quote "raw, unstructured personal rant framed as political commentary, heavy on 
 Quote "self-pity mixed with grand claims." Unquote.
 
 There's problems here. Recall in this [writing](https://github.com/Changissnz/my_thoughts_on_AI__09-09-2026), I wrote how some of the mannerisms 
-of people practically amount to political war. I think that's pretty indisputable, truthfully. Why is it that Congress is always in deadlock, and 
-corporations are like these magical unicorn fairy things or something? Statecraft. 
+from certain people practically amount to political war. I think that's pretty indisputable, truthfully. Why is it that Congress is always in deadlock, 
+and corporations are like these magical unicorn fairy things or something? Statecraft. 
 
 I have a right to talk s***. I don't expect a big medal or nothing. But furthermore, I expect that when I talk s***, such smart LLM technologies 
 do go off on borderline "you're crazy" and borderline "be more polite, please! please!"... This technology was scientifically produced. It's not supposed 
