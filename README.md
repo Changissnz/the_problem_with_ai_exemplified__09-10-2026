@@ -10,3 +10,4 @@ capital markets.
 
 Here are some screenshots of Grok's interpretation of the article. 
 
+![image info](Screenshot%202026-09-10%20225735.png)
