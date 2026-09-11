@@ -102,7 +102,7 @@ from certain people practically amount to political war. I think that's pretty i
 and corporations are like these magical unicorn fairy things or something? Statecraft. 
 
 I have a right to talk s***. I don't expect a big medal or nothing. But furthermore, I expect that when I talk s***, such smart LLM technologies 
-do go off responding borderline "you're crazy" and borderline "be more polite, please! please!"... This technology was scientifically produced. It's not supposed 
+do not go off responding borderline "you're crazy" and borderline "be more polite, please! please!"... This technology was scientifically produced. It's not supposed 
 to be a human companion. At best, it is a lab assistant. A cheat code. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
