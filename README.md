@@ -109,3 +109,7 @@ a human companion. At best, it is a lab assistant. A cheat code.
 
 I digress. I felt writing what I wrote, not because of wanting the money or nothing. It's just that there is more to life than books. And there is more 
 to life than A.I. That's why my ultimate want is for the A.I. IPOs to happen. 
+
+When someone suffers, another person will suffer just as much. That's my perspective. The world got shrunk down, people want to play political games, housing 
+crisis, all these crises, believing BS from records doctored by American scammers and Russians alike. There is a sore lack of loyalty and consideration from 
+some corners of American society, Chinese society, any society. 
