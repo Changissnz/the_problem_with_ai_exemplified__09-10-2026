@@ -126,7 +126,7 @@ Oh really?! So I'm a reactionary now?!
 
 Quote "Like the earlier piece, this is still primarily personal venting and meta-commentary rather than a systematic technical or economic analysis of AI. It 
 is more focused (it has a clear target: my interpretation of his writing), but the style remains the same—digressive, resentful, and heavy on cultural and ethnic 
-framing."
+framing." Unquote.
 
 I'll write this one more time, in other words. With all the BS that has been occurring for the greater part of the past decade and a half, I simply cannot let some 
 things slide no more. It's not resentment, in my defensive words. It is acknowledging the world is not being cut out right for some people. Maybe that "some people" 
