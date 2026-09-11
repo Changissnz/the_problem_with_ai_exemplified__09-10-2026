@@ -95,7 +95,7 @@ Now, let's move on to another analysis by Grok, this time on this article, writt
 ![image info](Screenshot%202026-09-10%20234319.png)
 
 Quote "raw, unstructured personal rant framed as political commentary, heavy on anecdote, resentment, and digression." Unquote. 
-Quote "self-pity mixed with grand claims." 
+Quote "self-pity mixed with grand claims." Unquote.
 
 There's problems here. Recall in this [writing](https://github.com/Changissnz/my_thoughts_on_AI__09-09-2026), I wrote how some of the mannerisms 
 of people practically amount to political war. I think that's pretty indisputable, truthfully. Why is it that Congress is always in deadlock, and 
