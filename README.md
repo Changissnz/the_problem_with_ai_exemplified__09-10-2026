@@ -129,7 +129,7 @@ is more focused (it has a clear target: my interpretation of his writing), but t
 framing." Unquote.
 
 I'll write this one more time, in other words. With all the BS that has been occurring for the greater part of the past decade and a half, I simply cannot let some 
-things slide no more. It's not resentment, in my defensive words. It is acknowledging the world is not being cut out right for some people. Maybe that "some people" 
+things slide any more. It's not resentment, in my defensive words. It is acknowledging the world is not being cut out right for some people. Maybe that "some people" 
 includes me. The writings are opinion pieces for the record — not for fame or glory, really. It's like the LLM is implying that I am insisting that I am crown prince, 
 that I wish to be king, emperor. NO. I do not. What I'm saying is there are some matters that might not be honored, given the trajectory of how industry and government 
 and other influential bodies of decision-making have been running things. 
