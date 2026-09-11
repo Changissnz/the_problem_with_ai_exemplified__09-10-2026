@@ -101,9 +101,9 @@ There's problems here. Recall in this [writing](https://github.com/Changissnz/my
 of people practically amount to political war. I think that's pretty indisputable, truthfully. Why is it that Congress is always in deadlock, and 
 corporations are like these magical unicorn fairy things or something? Statecraft. 
 
-I have a right to talk shit. I don't expect a big medal or nothing. But furthermore, I expect that when I talk shit, such smart LLM technologies 
-do go off on borderline "you're crazy" and borderline "be more polite, please! please!"... This technology was scientifically produced. It's not supposed to be 
-a human companion. At best, it is a lab assistant. A cheat code. 
+I have a right to talk s***. I don't expect a big medal or nothing. But furthermore, I expect that when I talk s***, such smart LLM technologies 
+do go off on borderline "you're crazy" and borderline "be more polite, please! please!"... This technology was scientifically produced. It's not supposed 
+to be a human companion. At best, it is a lab assistant. A cheat code. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -113,3 +113,24 @@ to life than A.I. That's why my ultimate want is for the A.I. IPOs to happen.
 When someone suffers, another person will suffer just as much. That's my perspective. The world got shrunk down, people want to play political games, housing 
 crisis, all these crises, believing BS from records doctored by American scammers and Russians alike. There is a sore lack of loyalty and consideration from 
 some corners of American society, Chinese society, any society. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------- 
+
+I prompted Grok to provide me feedback on this article so far. And here is how it responded. 
+
+![image info](Screenshot%202026-09-11%20001425.png)
+
+![image info](Screenshot%202026-09-11%20001440.png)
+
+Oh really?! So I'm a reactionary now?! 
+
+Quote "Like the earlier piece, this is still primarily personal venting and meta-commentary rather than a systematic technical or economic analysis of AI. It 
+is more focused (it has a clear target: my interpretation of his writing), but the style remains the same—digressive, resentful, and heavy on cultural and ethnic 
+framing."
+
+I'll write this one more time, in other words. With all the BS that has been occurring for the greater part of the past decade and a half, I simply cannot let some 
+things slide no more. It's not resentment, in my defensive words. It is acknowledging the world is not being cut out right for some people. Maybe that "some people" 
+includes me. The writings are opinion pieces for the record — not for fame or glory, really. It's like the LLM is implying that I am insisting that I am crown prince, 
+that I wish to be king, emperor. NO. I do not. What I'm saying is there are some matters that might not be honored, given the trajectory of how industry and government 
+and other influential bodies of decision-making have been running things. 
+
