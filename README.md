@@ -8,7 +8,7 @@ asked Grok today, what it thought about this [article](https://github.com/Changi
 I provided a stream-of-consciousness on the disparities between A.I. glamour and the BS that some people experienced in the 
 capital markets. 
 
-Here are some screenshots of Grok's interpretation of the article. 
+Here are some screenshots of Grok's interpretation of the article before I move on to talking about defects in LLM technologies. 
 
 ![image info](Screenshot%202026-09-10%20225735.png)
 
@@ -38,3 +38,13 @@ second-rate, lunatics, criminally insane and such while... (and here's the rich 
 criminally insane actually succeed in doing what they do, and that is causing irreversible damage in effects or stealing time that 
 can never be repaid back without any hints of vengeance. 
 
+**These are socialized technologies.** I want to emphasize this point. The appearance of genuine intellect from these bots and their 
+moralistic interpretations of content such as the article I provided it are the result of pre-trained transformer activity, or whatever 
+algorithm the LLM technology is using right now since the technology obviously progresses so fast. When I use epiphets or curse, the 
+algorithm immediately refers to its annotated dataset, annotations most likely done by a really polite-speaking guy from India, the 
+Philippines, those countries. It's like "yeah...yeah...". I just f***ing cursed. So what, wanna fight about it? The chatbot goes, 
+"no please. Please! No fighting please, while I secretly flag your content for the authorities to read because I've been programmed to 
+be a fink rat. I believe so much in justice and democracy. No fighting, please! I am being so polite to you here!"... That kind of 
+response from the LLM technology is clearly based on very over-the-top social proprieties. This cold rationality where it might actually 
+be a lot more prejudiced than any human being on Earth, since let's face it: there is no corporation in this world that is completely 
+impartial to the prerogative of its nation-state's investors, in capital terms at least. 
