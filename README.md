@@ -1,4 +1,5 @@
 # The Problem with AI Exemplified: 09-10-2026
+## written by Richard Pham 
 
 The first article in this series, where I prove what's wrong with A.I. 
 -----------------------------------------------------------------------
